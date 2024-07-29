@@ -1,2 +1,2 @@
 # raustausch
-Code Beispiele vom R-Austausch
+Code Beispiele & Folien vom R-Austausch.
